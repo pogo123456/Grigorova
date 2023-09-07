@@ -6,7 +6,8 @@ int main()
 {
 	char name;
 
+	cin >> name;
+
 	cout << "Hello World!" << endl;
 
-	cin >> name;
 }
